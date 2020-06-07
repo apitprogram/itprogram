@@ -19,6 +19,6 @@ This program consists of the following key modules:
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apitprogram/itprogram/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### About Us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to know more about the Team behind this? Check out our [About](https://apitprogram.github.io/itprogram/about)
