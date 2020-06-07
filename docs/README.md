@@ -10,4 +10,4 @@ This program consists of the following key modules:
 
 ### About Us
 
-Want to know more about the Team behind this? Check out our [About](https://apitprogram.github.io/itprogram/about)
+Want to know more about the Team behind this? Check out our [About Us page](https://apitprogram.github.io/itprogram/about)
