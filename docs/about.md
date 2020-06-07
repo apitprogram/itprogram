@@ -21,4 +21,4 @@ Saqlain |
 Sohel Khan |
 
 ### Supporting Members
-* If you're interested in joining us then Please send an email to `aapit2020 at gmail.com`
+* If you're interested in joining us then please send an email to: `aapit2020 at gmail.com`
