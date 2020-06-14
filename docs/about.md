@@ -21,7 +21,7 @@ broken down into these:
 | ![Profile](/docs/assets/profile_img.png)| **Mujahid Khader**| |
 | ![Profile](/docs/assets/profile_img.png)| **Naushad Sheikh**| |
 |![Profile](/docs/assets/profile_img.png)| **Sadiq Shaikh** - 20+ years of IT experience across various verticals e.g. Telecos, Manufacturing, Banking and FMCG sector|
-| ![Profile](/docs/assets/profile_img.png)| **Saqlain** | |
+| ![Profile](/docs/assets/profile_img.png)| **Saqlain ** | |
 | ![Profile](/docs/assets/profile_img.png)| **Sohel Khan** | |
 
 ### Supporting Members
