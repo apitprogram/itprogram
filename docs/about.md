@@ -12,7 +12,7 @@ broken down into these:
 
 ## Core Members (in alphabetical order)
 
-| Name | Brief Intro |
+| Profile | Brief Intro |
 ------------ | -------------
 | ![Profile](/docs/assets/profile_img.png)| **Arif Jilani** |
 | ![Profile](/docs/assets/profile_img.png)| **Iqbal Shaikh** - Self-employed Consultant with over two decades of IT experience and hands-on with Cloud Computing, Devops, Development etc.|
