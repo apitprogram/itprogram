@@ -19,7 +19,7 @@
 * [Github Desktop Workshop](others/git-desktop-workshop.md)
 
 ## Guides
-* [Coding 101](others/coding-101.md)
+* [Coding 101](coding101.md)
 
 ## Modules (Optional)
 * [Java Module](others/java.md)
