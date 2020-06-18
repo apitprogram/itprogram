@@ -16,13 +16,12 @@
     
 ## Workshops
 * [Hotel Workshop (including payments)](node/week-3/workshop.md)
-* [AWS & DynamoDB Workshop](others/aws-workshop-2.md)
 * [Github Desktop Workshop](others/git-desktop-workshop.md)
 
 ## Guides
 * [Coding 101](others/coding-101.md)
 
-## Modules
+## Modules (Optional)
 * [Java Module](others/java.md)
 
 ## For Students
@@ -30,6 +29,4 @@
 
 ## For Mentors
 * Teaching Notes
-    * [Course feedbacks/excercises](html-css/week-1/mentors.md)
-    * [Workshop feedbacks etc](html-css/week-1/mentors.md)
-    * [Others](html-css/week-1/mentors.md)
+    * Please use the 'internal' repo
