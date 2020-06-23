@@ -8,7 +8,7 @@
 
 ## AIM
 * Guidance on How to be successful Post University, Engineering, Career Guidance
-           <a href="url"><img src="../pic1.png" align="left" height="320" width="480"></a>
+           <a href="url"><img src="pic1.png" align="left" height="320" width="480" style="vertical-align:middle"></a>
 <BR clear=all>
 <BR clear=all>
            
@@ -22,18 +22,23 @@
 * 40-45min sessions each /week
    * Online Presentation
    * Interactive Sessions
-      * Multiple Stages, Direction, Distinctive Skills Areas
+   * Multiple Stages, Direction, Distinctive Skills Areas
+
 <BR clear=all>
 <BR clear=all>
-<a href="url"><img src="../Part%201.png" align="left" height="80" width="480" ></a>
+
+<a href="url"><img src="Part 1.png" align="left" height="80" width="480" style="vertical-align:middle" ></a>
+
 <BR clear=all>
 <BR clear=all>
-<a href="url"><img src="../Part%202.png" align="left" height="80" width="480" ></a> 
+
+<a href="url"><img src="Part 2.png" align="left" height="80" width="480" style="vertical-align:middle" ></a> 
 <BR clear=all>
 <BR clear=all>
    
 * Group Discussion
-* Mock Drills
+   * Mock Drills
+
 * Feedback, Scorecard and Improvements
    * Creative and Problem-Solving skills
    * Adaptability and Flexibility
