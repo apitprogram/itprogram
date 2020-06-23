@@ -23,7 +23,6 @@
   
 ### Stage 1
 
-
 ## Benefits of Technical SoftSkills
 * Develop your confidence and networking skills
 * Provides a view and insight into various graduate career opportunities
