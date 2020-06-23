@@ -21,17 +21,14 @@
 * 40-45min sessions each /week
    * Online Presentation
    * Interactive Sessions
-   * Multiple Stages, Direction, Distinctive Skills Areas
-
-<BR clear=all>
-<BR clear=all>
-
+   * Multiple Stages, Direction, Distinctive Skills Areas<br/>
+   
 <a href="url"><img src="Part 1.png" align="left" height="80" width="480" style="vertical-align:middle" ></a>
-
-<BR clear=all>
-<BR clear=all>
-
+<br/>
+<br/>
 <a href="url"><img src="Part 2.png" align="left" height="80" width="480" style="vertical-align:middle" ></a>
+<br/>
+<br/>
 
 * Group Discussion
    * Mock Drills
