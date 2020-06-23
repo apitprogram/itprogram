@@ -7,9 +7,10 @@
 * How to Improve/Leverage Skillset
 
 ## AIM
-* Guidance on How to be successful Post University, Engineering, Career Guidance
-           <a href="url"><img src="pic1.png" align="left" height="320" width="480" style="vertical-align:middle"></a>
-           
+* Guidance on How to be successful Post University, Engineering, Career Guidance<br/>
+
+<a href="url"><img src="pic1.png" align="left" height="320" width="480" style="vertical-align:middle"></a>
+<br/>
 * Prepare for Inteviews
     * (CV, Mock Interviews)
 * Prepare for probabtionary period
