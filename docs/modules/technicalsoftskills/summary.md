@@ -1,12 +1,35 @@
 # Home
 [Back to Home](https://apitprogram.github.io/itprogram)
 
-# AIM
+# Tecnical Soft Skills
+* Introduction to Technical Softskills
+* Importance of Technical Softskills
+* How to Improve/Leverage Skillset
+
+## AIM
 * Guidance on How to be successful Post University, Engineering, Career Guidance
 * Prepare for Inteviews
-* * (CV, Mock Interviews)
+    * (CV, Mock Interviews)
 * Prepare for probabtionary period
-* * (eg: Fitting with team play, company culture, best practices, Time Management)
+    * (eg: Fitting with team play, company culture, best practices, Time Management)
 
-## Note:
+## Module Delivery
+* 3-5 modules
+* 40-45min sessions each /week
+    * Online Presentation
+    * Interactive Sessions
+    * Group Discussion
+    * Mock Drills • Feedback
+  
+### Stage 1
+
+
+## Benefits of Technical SoftSkills
+* Develop your confidence and networking skills
+* Provides a view and insight into various graduate career opportunities
+* One-to-One support with CV writing and interview skills
+* Provide a stepping stone to becoming a highly employable graduate.
+
+
+### Note:
 `Our aim is not to advice you on Immigration/Jobs Abroad/International Travel/Visa’s etc.`
