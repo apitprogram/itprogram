@@ -9,8 +9,6 @@
 ## AIM
 * Guidance on How to be successful Post University, Engineering, Career Guidance
            <a href="url"><img src="pic1.png" align="left" height="320" width="480" style="vertical-align:middle"></a>
-<BR clear=all>
-<BR clear=all>
            
 * Prepare for Inteviews
     * (CV, Mock Interviews)
@@ -32,10 +30,8 @@
 <BR clear=all>
 <BR clear=all>
 
-<a href="url"><img src="Part 2.png" align="left" height="80" width="480" style="vertical-align:middle" ></a> 
-<BR clear=all>
-<BR clear=all>
-   
+<a href="url"><img src="Part 2.png" align="left" height="80" width="480" style="vertical-align:middle" ></a>
+
 * Group Discussion
    * Mock Drills
 
