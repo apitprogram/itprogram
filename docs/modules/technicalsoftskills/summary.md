@@ -26,11 +26,6 @@
    
    ![](partpic2.png)
     
-       
-       
-   <img src=Part%202.png width=480 height=80 alt="\n">
-   
- 
 * Group Discussion
    * Mock Drills
 
