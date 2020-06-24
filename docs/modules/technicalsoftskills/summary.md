@@ -8,7 +8,7 @@
 
 ## AIM
 * Guidance on How to be successful Post University, Engineering, Career Guidance
-<img src=pic1.png width=480 height=320 alt="">
+![](Picture1.png)
 
 * Prepare for Inteviews
     * (CV, Mock Interviews)
