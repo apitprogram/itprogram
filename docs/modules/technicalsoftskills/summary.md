@@ -22,7 +22,9 @@
    * Interactive Sessions
    * Multiple Stages, Direction, Distinctive Skills Areas    
      
-   <img src=Part%201.png width=480 height=80 alt="\n">  
+   ![](partpic1.png)  
+   
+   ![](partpic2.png)
     
        
        
