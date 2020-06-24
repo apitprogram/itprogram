@@ -9,6 +9,7 @@
 ## AIM
 * Guidance on How to be successful Post University, Engineering, Career Guidance
 <img src=pic1.png width=480 height=320 alt="">
+
 * Prepare for Inteviews
     * (CV, Mock Interviews)
 * Prepare for probabtionary period
@@ -19,8 +20,15 @@
 * 40-45min sessions each /week
    * Online Presentation
    * Interactive Sessions
-   * Multiple Stages, Direction, Distinctive Skills Areas
-
+   * Multiple Stages, Direction, Distinctive Skills Areas    
+     
+   <img src=Part%201.png width=480 height=80 alt="">  
+     
+       
+       
+   <img src=Part%202.png width=480 height=80 alt="">
+   
+ 
 * Group Discussion
    * Mock Drills
 
